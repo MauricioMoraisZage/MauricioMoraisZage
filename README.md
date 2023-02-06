@@ -14,10 +14,11 @@
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MauricioMoraisZage&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
- <h3>Area of degree or training: Java & Mysql</h3>
+ <h3>Area of degree or training: Java, Android & Mysql</h3>
 <div style="display: inline_block">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg">
 </div>
   
 <h3>Other areas I have knowledge: Html, Css, Js & Python</h3>  

@@ -16,8 +16,6 @@
   <a href="https://drive.google.com/drive/u/0/folders/1SQWLRxguWdrfLir3u1LXx3p2G7XqQoik" download="Mauricio CV developer" type="application/pdf"> <button><b>Download my Curriculum Vitae</b></button></a>
 </div><br><br>  
 
-  ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=MauricioMoraisZage&show_icons=true&theme=dracula&count_private=true)
-
 <div>
   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=MauricioMoraisZage&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
   <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MauricioMoraisZage&layout=compact&langs_count=16&theme=great-gatsby"/>

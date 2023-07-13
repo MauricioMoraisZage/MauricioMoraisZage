@@ -17,11 +17,9 @@
 </div><br><br>  
 
 <div>
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=MauricioMoraisZage&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MauricioMoraisZage&layout=compact&langs_count=16&theme=great-gatsby"/>
-</div>
-<br>
-
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=MauricioMoraisZage&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/> <br>
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MauricioMoraisZage&layout=compact&langs_count=16&theme=great-gatsby"/>
+</div><br><br>
 
 <h3>Area of degree or training: Java, Android & Mysql</h3>
 <div style="display: inline_block">

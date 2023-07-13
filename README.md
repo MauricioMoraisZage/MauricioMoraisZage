@@ -2,7 +2,6 @@
 
 <ul>
   <li> I’m currently working on Java and I’m learning more and more</li>
-  <li> I’m looking for a job</li>
   <li> How to reach me: WhatsApp: 938619912</li>
   <li><a href="https://drive.google.com/drive/u/0/folders/1SQWLRxguWdrfLir3u1LXx3p2G7XqQoik" download="Mauricio CV developer" type="application/pdf"> <button><b>Download my Curriculum Vitae</b></button></a></li>
 </ul>

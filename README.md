@@ -1,9 +1,9 @@
 ### Mauricio Morais Zage is a young programmer who has been coding since the age of 14. He has a strong command of Java, which is the language he most frequently uses, but he also works with Python and Kotlin due to the new trends in the software development market.
 
 <ul>
-  <li>🔭 I’m currently working on Java and I’m learning more and more</li>
-  <li>🤔 I’m looking for a job</li>
-  <li>📫 How to reach me: WhatsApp: 938619912</li>
+  <li> I’m currently working on Java and I’m learning more and more</li>
+  <li> I’m looking for a job</li>
+  <li> How to reach me: WhatsApp: 938619912</li>
   <li><a href="https://drive.google.com/drive/u/0/folders/1SQWLRxguWdrfLir3u1LXx3p2G7XqQoik" download="Mauricio CV developer" type="application/pdf"> <button><b>Download my Curriculum Vitae</b></button></a></li>
 </ul>
 

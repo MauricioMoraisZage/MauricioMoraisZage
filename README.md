@@ -1,4 +1,4 @@
-### Hi! Iam Mauricio Morais Zage, Java programmer
+### Mauricio Morais Zage is a young programmer who has been coding since the age of 14. He has a strong command of Java, which is the language he most frequently uses, but he also works with Python and Kotlin due to the new trends in the software development market.
 
 - 🔭 I’m currently working on Java and I’m learning more and more
 - 🤔 I’m looking for a job

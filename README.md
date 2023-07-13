@@ -4,6 +4,7 @@
   <li>🔭 I’m currently working on Java and I’m learning more and more</li>
   <li>🤔 I’m looking for a job</li>
   <li>📫 How to reach me: WhatsApp: 938619912</li>
+  <li><a href="https://drive.google.com/drive/u/0/folders/1SQWLRxguWdrfLir3u1LXx3p2G7XqQoik" download="Mauricio CV developer" type="application/pdf"> <button><b>Download my Curriculum Vitae</b></button></a></li>
 </ul>
 
 <div> 
@@ -13,7 +14,6 @@
   <a href="https://www.linkedin.com/in/mauricio-morais-zage-a09b31224/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
-  <a href="https://drive.google.com/drive/u/0/folders/1SQWLRxguWdrfLir3u1LXx3p2G7XqQoik" download="Mauricio CV developer" type="application/pdf"> <button style="background_color: blue; color: black" ><b>Download my Curriculum Vitae</b></button></a>
 </div><br><br>  
 
 <div>

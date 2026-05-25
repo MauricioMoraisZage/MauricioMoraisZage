@@ -1,16 +1,8 @@
-<h1 align="center">Hi, I'm Mauricio Morais Zage 👋</h1>
-
-<h3 align="center">
-Backend Developer | 42 Luanda Cadet | Building real-world backend systems
-</h3>
+<h1 align="center">👩🏻‍💻 Mauricio Morais Zage </h1>
 
 <p align="center">
   I am a Backend Developer focused on building structured, reliable and scalable backend applications.
-  My background includes Java, C/C++, SQL, Linux, Git and problem solving through academic, personal and 42 School projects.
-</p>
-
-<p align="center">
-  I am currently improving my backend skills by building real projects with Node.js, TypeScript, PostgreSQL, Prisma, Docker and REST API architecture.
+  Always improving my backend skills by building real projects with Node.js, TypeScript, PostgreSQL, Prisma, Docker and REST API architecture.
 </p>
 
 ---
@@ -20,22 +12,8 @@ Backend Developer | 42 Luanda Cadet | Building real-world backend systems
 - Backend Developer focused on APIs, databases and backend architecture
 - 42 Luanda cadet with strong foundations in C and C++
 - Experience with Java, MySQL, SQL and object-oriented programming
-- Currently working with Node.js, TypeScript, PostgreSQL, Prisma and Docker
 - Interested in remote and international backend opportunities
-- Always improving through practical projects, clean code and real-world problem solving
-
----
-
-## Current Focus
-
-- Building REST APIs with Node.js, Express and TypeScript
-- Designing PostgreSQL databases with Prisma ORM
-- Implementing authentication and authorization with JWT
-- Structuring backend projects with routes, controllers, services and repositories
-- Working with Docker and Docker Compose for development environments
-- Writing better documentation and improving Git/GitHub workflow
-- Improving English communication for international backend opportunities
-
+  
 ---
 
 ##  Tech Stack
@@ -85,11 +63,19 @@ Backend Developer | 42 Luanda Cadet | Building real-world backend systems
 
 ## GitHub Stats
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MauricioMoraisZage&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <br><br>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MauricioMoraisZage&layout=compact&langs_count=16&theme=great-gatsby"/>
-</div>
+<p>
+  <img align="left" alt="GitHub Stats" height="200" style="padding-right: 10px;" 
+    src="https://github-readme-stats-two-omega-43.vercel.app/api?username=paulopontodev&show_icons=true&theme=tokyonight&locale=pt-br&include_all_commits=true&cache_seconds=86400">
+
+  <img align="left" alt="GitHub Stats" height="200" 
+      src="https://github-readme-stats-two-omega-43.vercel.app/api/top-langs/?username=paulopontodev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8">
+</p>
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/paulopontodev/paulopontodev/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/paulopontodev/paulopontodev/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/paulopontodev/paulopontodev/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
@@ -107,5 +93,5 @@ Backend Developer | 42 Luanda Cadet | Building real-world backend systems
 <br>
 
 <a href="https://drive.google.com/drive/u/0/folders/1SQWLRxguWdrfLir3u1LXx3p2G7XqQoik">
-  <b>Download my Curriculum Vitae</b>
+  <b>Download my CV</b>
 </a>

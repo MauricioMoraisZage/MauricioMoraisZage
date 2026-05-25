@@ -79,30 +79,7 @@ Backend Developer | 42 Luanda Cadet | Building real-world backend systems
 <div style="display: inline_block">
   <img align="center" alt="C" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="C++" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="Python" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="HTML" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
-
----
-
-## Current Project
-
-### Career Tracker API
-
-A REST API designed to manage courses, coding practice, job applications and career progress.
-
-This project is being built as a real backend portfolio project, covering:
-
-- API structure with Node.js, Express and TypeScript
-- PostgreSQL database modeling
-- Prisma ORM
-- Authentication with JWT
-- Validation and error handling
-- Dockerized development environment
-- Testing
-- Documentation
-- Deployment
 
 ---
 

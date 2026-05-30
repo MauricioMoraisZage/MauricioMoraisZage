@@ -70,11 +70,11 @@
 ## GitHub Stats
 
 <p>
-  <img align="left" alt="Mauricio Morais Zage GitHub Stats" width="460"
+  <img align="left" alt="Mauricio Morais Zage GitHub Stats" width="400"
     src="https://mauricio-github-stats-api.vercel.app/api/stats?v=2"
   />
 
-  <img align="right" alt="Most Used Technologies" width="460"
+  <img align="right" alt="Most Used Technologies" width="400"
     src="https://mauricio-github-stats-api.vercel.app/api/languages?v=2"
   />
 </p>

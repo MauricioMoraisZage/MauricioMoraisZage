@@ -74,7 +74,7 @@
     src="https://mauricio-github-stats-api.vercel.app/api/stats?v=2"
   />
 
-  <img align="left" alt="Most Used Technologies" width="460"
+  <img align="right" alt="Most Used Technologies" width="460"
     src="https://mauricio-github-stats-api.vercel.app/api/languages?v=2"
   />
 </p>

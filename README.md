@@ -79,6 +79,16 @@
   />
 </p>
 
+
+<p>
+  <img align="left" alt="GitHub Stats" height="200" style="padding-right: 10px;" 
+    src="https://github-readme-stats-two-omega-43.vercel.app/api?username=MauricioMoraisZage&show_icons=true&theme=tokyonight&locale=pt-br&include_all_commits=true&cache_seconds=86400">
+
+  <img align="left" alt="GitHub Stats" height="200" 
+      src="https://github-readme-stats-two-omega-43.vercel.app/api/top-langs/?username=MauricioMoraisZage&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8">
+</p>
+
+
 <p align="center">
   <img alt="GitHub Contribution Snake"
 src="https://raw.githubusercontent.com/MauricioMoraisZage/MauricioMoraisZage/output/github-contribution-grid-snake-dark.svg"

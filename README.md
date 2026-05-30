@@ -70,7 +70,7 @@
 ## GitHub Stats
 
 <p>
-  <img align="left" alt="Mauricio Morais Zage GitHub Stats" height="210"  width="480"
+  <img align="left" alt="Mauricio Morais Zage GitHub Stats" height="250"  width="480"
     src="https://mauricio-github-stats-api.vercel.app/api/stats?v=2"
   />
 

@@ -69,24 +69,19 @@
 
 ## GitHub Stats
 
-<p align="center">
-  <img 
-    alt="Mauricio Morais Zage GitHub Stats"
-    height="200"
+<p>
+  <img align="left" alt="Mauricio Morais Zage GitHub Stats" height="200"
     src="https://github-readme-stats-two-omega-43.vercel.app/api?username=MauricioMoraisZage&show_icons=true&theme=tokyonight&locale=en&include_all_commits=true&hide_border=true&number_format=long&cache_seconds=21600"
   />
 
-  <img 
-    alt="Most Used Technologies"
-    height="200"
+  <img align="left" alt="Most Used Technologies" height="200"
     src="https://github-readme-stats-two-omega-43.vercel.app/api/top-langs/?username=MauricioMoraisZage&theme=tokyonight&layout=compact&custom_title=Most%20Used%20Technologies&langs_count=8&hide_border=true&cache_seconds=21600"
   />
 </p>
 
 <p align="center">
-  <img 
-    alt="GitHub Contribution Snake"
-    src="https://raw.githubusercontent.com/MauricioMoraisZage/MauricioMoraisZage/output/github-contribution-grid-snake-dark.svg"
+  <img alt="GitHub Contribution Snake"
+src="https://raw.githubusercontent.com/MauricioMoraisZage/MauricioMoraisZage/output/github-contribution-grid-snake-dark.svg"
   />
 </p>
 

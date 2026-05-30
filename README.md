@@ -78,8 +78,7 @@
     src="https://mauricio-github-stats-api.vercel.app/api/languages"
   />
 </p>
-
-
+<div></div>
 <p>
   <img align="left" alt="GitHub Stats" height="200" style="padding-right: 10px;" 
     src="https://github-readme-stats-two-omega-43.vercel.app/api?username=MauricioMoraisZage&show_icons=true&theme=tokyonight&locale=pt-br&include_all_commits=true&cache_seconds=86400">

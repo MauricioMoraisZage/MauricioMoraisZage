@@ -63,8 +63,12 @@
 ### Collaboration & Workflow |  Contacts
 
 <div style="display: inline_block">
-  <img align="center" alt="Slack" height="35" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
-  <img align="center" alt="ClickUp" height="35" src="https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white">
+  <a>
+    <img align="center" alt="Slack" height="35" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
+  </a>
+  <a>
+    <img align="center" alt="ClickUp" height="35" src="https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white">
+  </a>
   <a href="mailto:mauriciomoraiszage@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>

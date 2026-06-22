@@ -60,11 +60,17 @@
 </div>
 <br>
 
-### Collaboration & Workflow
+### Collaboration & Workflow |  Contacts
 
 <div style="display: inline_block">
   <img align="center" alt="Slack" height="35" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
   <img align="center" alt="ClickUp" height="35" src="https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white">
+  <a href="mailto:mauriciomoraiszage@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+  <a href="https://www.linkedin.com/in/mauricio-morais-zage-a09b31224/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
 </div>
 
 ---
@@ -88,19 +94,6 @@ src="https://raw.githubusercontent.com/MauricioMoraisZage/MauricioMoraisZage/out
 </p>
 
 ---
-
-## Contact
-
-<div> 
-  <a href="mailto:mauriciomoraiszage@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a>
-  <a href="https://www.linkedin.com/in/mauricio-morais-zage-a09b31224/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a>
-</div>
-
-<br>
 
 <a href="https://drive.google.com/drive/u/0/folders/1SQWLRxguWdrfLir3u1LXx3p2G7XqQoik">
   <b>Download my CV</b>

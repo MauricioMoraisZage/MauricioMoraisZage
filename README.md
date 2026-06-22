@@ -1,6 +1,10 @@
 <h1 align="center">👩🏻‍💻 Mauricio Morais Zage </h1>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/License-Protected%20by%20Author-red?style=flat-square" alt="Protected by Author">
+</p>
+
+<p align="center">
   I am a Backend Developer focused on building structured, reliable and scalable backend applications.
   Always improving my backend skills by building real projects with Node.js, TypeScript, PostgreSQL, Prisma, Docker and REST API architecture.
 </p>

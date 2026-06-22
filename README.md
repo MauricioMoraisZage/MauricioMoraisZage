@@ -45,6 +45,7 @@
   <img align="center" alt="Docker" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
   <img align="center" alt="Linux" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   <img align="center" alt="VS Code" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+  <img align="center" alt="Make" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/make/make-original.svg">
   <img align="center" alt="Postman" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg">
 </div>
 <br>

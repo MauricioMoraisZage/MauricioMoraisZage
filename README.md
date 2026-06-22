@@ -63,17 +63,17 @@
 ### Collaboration & Workflow |  Contacts
 
 <div style="display: inline_block">
-  <a>
+  <a href="https://slack.com/signin#/signin">
     <img align="center" alt="Slack" height="35" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
   </a>
-  <a>
+  <a href="https://app.clickup.com/login">
     <img align="center" alt="ClickUp" height="35" src="https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white">
   </a>
   <a href="mailto:mauriciomoraiszage@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+    <img align="center" alt="Email" height="35" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
   <a href="https://www.linkedin.com/in/mauricio-morais-zage-a09b31224/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+    <img align="center" height="35" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
 </div>
 

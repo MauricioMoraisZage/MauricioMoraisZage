@@ -45,7 +45,7 @@
   <img align="center" alt="Docker" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
   <img align="center" alt="Linux" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   <img align="center" alt="VS Code" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-  <img align="center" alt="Makefile" height="35" width="45" src="https://img.shields.io/badge/-Makefile-000?style=for-the-badge&logo=gnu-make&logoColor=white">
+  <img align="center" alt="Makefile" height="35" width="45" src="https://img.shields.io/badge/Makefile-369DAD?style=for-the-badge&logo=makefile&logoColor=white">
   <img align="center" alt="Postman" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg">
 </div>
 <br>

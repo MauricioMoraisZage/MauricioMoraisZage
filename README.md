@@ -6,7 +6,7 @@
 
 <p align="center">
   I am a Backend Developer focused on building structured, reliable and scalable backend applications.
-  Always improving my backend skills by building real projects with Node.js, TypeScript, PostgreSQL, Prisma, Docker and REST API architecture.
+  Sharpening my backend expertise through real-world projects with Node.js, TypeScript, PostgreSQL, Prisma, Docker and REST API architecture.
 </p>
 
 ---
@@ -14,9 +14,11 @@
 ##  About Me
 
 - Backend Developer focused on APIs, databases and backend architecture
-- 42 Luanda cadet with strong foundations in C and C++
-- Experience with Java, MySQL, SQL and object-oriented programming
-- Interested in remote and international backend opportunities
+- 42 Luanda Transcender — completed the Common Core with strong foundations in C and C++
+- Strong background in algorithms, memory management and low-level programming from 42 curriculum  
+- Experience with Java, MySQL, SQL and object-oriented programming  
+- Open to remote and international backend opportunities, with a focus on scalable and reliable systems  
+- Passionate about combining technical depth with practical problem-solving to deliver impactful backend solutions
   
 ---
 

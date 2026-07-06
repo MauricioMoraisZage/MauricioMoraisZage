@@ -68,7 +68,7 @@
 
 ---
 
-## Selected Engineering Work
+## Confidential Technical Work
 
 ### SGE-USR — Road Safety Unit Personnel Management System
 
@@ -81,25 +81,6 @@ Designed and developed the backend of a private institutional personnel manageme
 **Backend Developer | Node.js, TypeScript, Express, Prisma, PostgreSQL, Docker, Nginx, SSE, WebSocket**
 
 Contributed to PostgreSQL integration and administrative backend features involving users, posts, reports, support tickets, permissions and account bans. Implemented the five-service Docker environment, Nginx reverse proxy, HTTPS, health checks, environment configuration and Makefile automation. The team project received a score of **125/100 at 42 Luanda**.
-
-### [Career Tracker API](https://github.com/MauricioMoraisZage/career-tracker-api)
-
-**Backend Developer | Node.js, TypeScript, Express, Prisma, PostgreSQL, Docker, Swagger/OpenAPI**
-
-Built a REST API for managing companies, job opportunities, recruitment stages and application history. Structured the backend with routes, controllers, services and a data-access layer, including input validation, centralised error handling, Prisma migrations and interactive API documentation.
-
-### [Vision Guard PC](https://github.com/MauricioMoraisZage/vision-guard-pc)
-
-**Software Developer | Python, Tkinter, SQLite, PyInstaller**
-
-Developed and publicly released a bilingual Windows application for screen-time monitoring, blink reminders, visual and physical breaks, focus and entertainment modes, local statistics, nighttime restrictions and system-tray integration.
-
-### Inception & Cub3D — 42 Luanda Systems Projects
-
-- **Inception:** built an isolated Docker infrastructure with Nginx, WordPress/PHP-FPM, MariaDB, TLS, private networking, persistent volumes, shell scripts and Makefile automation.
-- **Cub3D:** developed a raycasting application in C on Linux with map parsing, collision detection, textures, player movement, memory management and debugging with Valgrind.
-
----
 
 ## GitHub Stats
 

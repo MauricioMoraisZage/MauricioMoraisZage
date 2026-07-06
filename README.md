@@ -1,110 +1,113 @@
-<h1 align="center">👩🏻‍💻 Mauricio Morais Zage </h1>
+<h1 align="center">Mauricio Morais Zage</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/License-Protected%20by%20Author-red?style=flat-square" alt="Protected by Author">
+  <strong>Junior Software Engineer | Backend Development, Linux & Containerised Systems</strong>
 </p>
 
 <p align="center">
-  I am a Backend Developer focused on building structured, reliable and scalable backend applications.
-  Sharpening my backend expertise through real-world projects with Node.js, TypeScript, PostgreSQL, Prisma, Docker and REST API architecture.
+  I build structured and maintainable software using Node.js, TypeScript, PostgreSQL and Docker,
+  supported by strong foundations in C/C++, algorithms, memory management, debugging and systems programming
+  developed through the completed 42 Luanda Common Core.
+</p>
+
+<p align="center">
+  <a href="mailto:mauriciomoraiszage@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/mauricio-morais-zage-a09b31224/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
 </p>
 
 ---
 
-##  About Me
+## About Me
 
-- Backend Developer focused on APIs, databases and backend architecture
-- 42 Luanda Transcender — completed the Common Core with strong foundations in C and C++
-- Strong background in algorithms, memory management and low-level programming from 42 curriculum  
-- Experience with Java, MySQL, SQL and object-oriented programming  
-- Open to remote and international backend opportunities, with a focus on scalable and reliable systems  
-- Passionate about combining technical depth with practical problem-solving to deliver impactful backend solutions
-  
+- Backend-focused software engineer working with APIs, relational databases and containerised applications
+- Completed the **42 Luanda Common Core**, with practical foundations in C, C++, Linux, algorithms, memory management, networking and debugging
+- Completed the fifth academic year of **Computer Engineering**; final thesis in progress, with defence expected in 2027
+- Experienced with command-line Git workflows, Docker-based environments, REST APIs and PostgreSQL-backed systems
+- Open to remote and international junior software engineering and backend opportunities
+
 ---
 
-##  Tech Stack
+## Technical Skills
 
-### Backend
+### Core Engineering
 
-<div style="display: inline_block">
-  <img align="center" alt="Node.js" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="TypeScript" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+<div>
+  <img align="center" alt="C" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img align="center" alt="C++" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" alt="Python" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="JavaScript" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Express" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
+  <img align="center" alt="TypeScript" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+  <img align="center" alt="Java" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
-<br>
 
-### Databases
+### Backend & Databases
 
-<div style="display: inline_block">
+<div>
+  <img align="center" alt="Node.js" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Express" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
   <img align="center" alt="PostgreSQL" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="MySQL" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Prisma" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg">
 </div>
-<br>
 
-### Tools & Environment
+### Systems, Infrastructure & Workflow
 
-<div style="display: inline_block">
+<div>
+  <img align="center" alt="Linux" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+  <img align="center" alt="Docker" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
   <img align="center" alt="Git" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="GitHub" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-  <img align="center" alt="Docker" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-  <img align="center" alt="Linux" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   <img align="center" alt="VS Code" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-  <img align="center" alt="Makefile" height="35" width="45" src="https://img.shields.io/badge/Makefile-369DAD?style=for-the-badge&logo=makefile&logoColor=white">
   <img align="center" alt="Postman" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg">
+  <img align="center" alt="Makefile" height="35" src="https://img.shields.io/badge/Makefile-369DAD?style=for-the-badge&logo=gnu&logoColor=white">
 </div>
-<br>
 
-### Strong Foundations
+---
 
-<div style="display: inline_block">
-  <img align="center" alt="C" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" alt="C++" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="Java" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="python" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
-<br>
+## Selected Engineering Work
 
-### Collaboration & Workflow |  Contacts
+### SGE-USR — Road Safety Unit Personnel Management System
 
-<div style="display: inline_block">
-  <a href="https://slack.com/signin#/signin">
-    <img align="center" alt="Slack" height="35" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" target="_blank">
-  </a>
-  <a href="https://app.clickup.com/login">
-    <img align="center" alt="ClickUp" height="35" src="https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white" target="_blank">
-  </a>
-  <a href="mailto:mauriciomoraiszage@gmail.com">
-    <img align="center" alt="Email" height="35" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a>
-  <a href="https://www.linkedin.com/in/mauricio-morais-zage-a09b31224/" target="_blank">
-    <img align="center" alt="Linkedin" height="35" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a>
-</div>
+**Backend Developer | Node.js, TypeScript, Express, Prisma, PostgreSQL, Docker, JWT**
+
+Designed and developed the backend of a private institutional personnel management system, including relational database modelling, REST APIs, JWT authentication, role-based access control, database migrations and modules for personnel, organisational units, attendance, leave management and auditing.
+
+### 42Devs — Social Platform for the 42 Community
+
+**Backend Developer | Node.js, TypeScript, Express, Prisma, PostgreSQL, Docker, Nginx, SSE, WebSocket**
+
+Contributed to PostgreSQL integration and administrative backend features involving users, posts, reports, support tickets, permissions and account bans. Implemented the five-service Docker environment, Nginx reverse proxy, HTTPS, health checks, environment configuration and Makefile automation. The team project received a score of **125/100 at 42 Luanda**.
+
+### [Career Tracker API](https://github.com/MauricioMoraisZage/career-tracker-api)
+
+**Backend Developer | Node.js, TypeScript, Express, Prisma, PostgreSQL, Docker, Swagger/OpenAPI**
+
+Built a REST API for managing companies, job opportunities, recruitment stages and application history. Structured the backend with routes, controllers, services and a data-access layer, including input validation, centralised error handling, Prisma migrations and interactive API documentation.
+
+### [Vision Guard PC](https://github.com/MauricioMoraisZage/vision-guard-pc)
+
+**Software Developer | Python, Tkinter, SQLite, PyInstaller**
+
+Developed and publicly released a bilingual Windows application for screen-time monitoring, blink reminders, visual and physical breaks, focus and entertainment modes, local statistics, nighttime restrictions and system-tray integration.
+
+### Inception & Cub3D — 42 Luanda Systems Projects
+
+- **Inception:** built an isolated Docker infrastructure with Nginx, WordPress/PHP-FPM, MariaDB, TLS, private networking, persistent volumes, shell scripts and Makefile automation.
+- **Cub3D:** developed a raycasting application in C on Linux with map parsing, collision detection, textures, player movement, memory management and debugging with Valgrind.
 
 ---
 
 ## GitHub Stats
 
-<p>
-  <img align="left" alt="Mauricio Morais Zage GitHub Stats" width="400"
-    src="https://mauricio-github-stats-api.vercel.app/api/stats?v=2"
-  />
-
-  <img align="left" alt="Most Used Technologies" width="400"
-    src="https://mauricio-github-stats-api.vercel.app/api/languages?v=2"
-  />
+<p align="center">
+  <img alt="Mauricio Morais Zage GitHub Stats" width="400" src="https://mauricio-github-stats-api.vercel.app/api/stats?v=2">
+  <img alt="Most Used Technologies" width="400" src="https://mauricio-github-stats-api.vercel.app/api/languages?v=2">
 </p>
 
 <p align="center">
-  <img alt="GitHub Contribution Snake"
-src="https://raw.githubusercontent.com/MauricioMoraisZage/MauricioMoraisZage/output/github-contribution-grid-snake-dark.svg"
-  />
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/MauricioMoraisZage/MauricioMoraisZage/output/github-contribution-grid-snake-dark.svg">
 </p>
-
----
-
-<a href="https://drive.google.com/drive/u/0/folders/1SQWLRxguWdrfLir3u1LXx3p2G7XqQoik">
-  <b>Download my CV</b>
-</a>

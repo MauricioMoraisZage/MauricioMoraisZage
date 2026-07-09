@@ -128,27 +128,45 @@ configuration, service startup scripts and Makefile automation.
 
 ## Open Source Learning
 
-I am currently studying the contribution workflows of established open-source
-projects related to Linux, Ubuntu, cloud infrastructure, containers and backend
-development.
+I am currently building practical experience with open-source contribution workflows, focusing on backend development, Linux tooling, cloud infrastructure, containers, testing and technical documentation.
 
-Current projects being explored include:
+My goal is to start with small, well-scoped contributions such as documentation improvements, test coverage, examples, issue reproduction and simple bug fixes before moving into larger code changes.
 
-- [cloud-init](https://github.com/canonical/cloud-init)
-- [Snapcraft](https://github.com/canonical/snapcraft)
-- [Multipass](https://github.com/canonical/multipass)
-- [Charmcraft](https://github.com/canonical/charmcraft)
-- [Node.js](https://github.com/nodejs/node)
-- [Fastify](https://github.com/fastify/fastify)
-- [Docker Docs](https://github.com/docker/docs)
+### Current Focus
+
+#### Ubuntu / Linux / Cloud
+
+- **cloud-init** — learning how cloud instances are initialized, configured and automated in real-world Linux environments.
+
+#### Backend / Node.js
+
+- **Fastify ecosystem** — studying backend architecture, plugins, testing practices, API design and Node.js contribution workflows.
+
+#### Documentation Practice
+
+- **Docker Docs** — practicing technical documentation contributions related to containers, developer tooling and infrastructure workflows.
+
+### Future Interests
+
+These projects are also part of my long-term open-source learning path, but they are not my immediate contribution focus:
+
+- Snapcraft
+- Charmcraft
+- Multipass
+- Node.js core
+
+### Contribution Goals
+
+- Understand real-world open-source workflows
+- Read and follow contribution guidelines
+- Reproduce issues locally before proposing changes
+- Start with documentation, tests, examples and small bug fixes
+- Open clear and respectful pull requests
+- Track accepted contributions and lessons learned
 
 My preparation, project research and contribution plan are documented in:
 
-<p>
-  <a href="https://github.com/MauricioMoraisZage/open-source-journey">
-    <img alt="Open Source Journey" src="https://img.shields.io/badge/Open%20Source%20Journey-181717?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-</p>
+[Open Source Journey](https://github.com/MauricioMoraisZage/open-source-journey)
 
 ---
 

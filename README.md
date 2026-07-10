@@ -70,31 +70,25 @@
 
 ---
 
-## Selected Private & Collaborative Technical Work
+## Selected Backend & Systems Work
 
-The projects below are selected examples of private and non-public technical
-work. Additional projects and implementation details can be discussed when
-appropriate.
+The projects below are selected examples of private, academic and collaborative technical work. Additional implementation details can be discussed when appropriate.
 
 ### SGE-USR — Road Safety Unit Personnel Management System
 
 **Backend Developer | Node.js, TypeScript, Express, Prisma, PostgreSQL, Docker, JWT**
 
-Designed and developed the backend of a private institutional personnel
-management system, including relational database modelling, REST APIs, JWT
-authentication, role-based access control, database migrations and modules for
-personnel, organisational units, attendance, leave management and auditing.
+Designed and developed backend modules for a private institutional personnel management system, including relational database modelling, REST APIs, JWT authentication, role-based access control, database migrations and features for personnel management, organisational units, attendance, leave management and auditing.
 
 ### 42Devs — Social Platform for the 42 Community
 
 **Backend Developer | Node.js, TypeScript, Express, Prisma, PostgreSQL, Docker, Nginx, SSE, WebSocket**
 
-Contributed to PostgreSQL integration and administrative backend features
-involving users, posts, reports, support tickets, permissions and account bans.
+Contributed to backend and infrastructure work for a collaborative social platform built for the 42 community.
 
-Designed and implemented the five-service container environment, including the
-backend, PostgreSQL database, two frontend applications and Nginx reverse proxy.
-Configured HTTPS, health checks, environment variables and Makefile automation.
+Worked on PostgreSQL integration and administrative backend features involving users, posts, reports, support tickets, permissions and account bans.
+
+Designed and implemented the local containerised development environment with five services: backend, PostgreSQL database, user frontend, admin frontend and Nginx reverse proxy. Configured HTTPS, health checks, environment variables and Makefile automation.
 
 The team project received a score of **125/100 at 42 Luanda**.
 
@@ -107,66 +101,60 @@ The team project received a score of **125/100 at 42 Luanda**.
 **C, Linux, Unix Processes, Pipes, Signals, File Descriptors, Makefile**
 
 Collaboratively built a Unix-like command interpreter in C, inspired by Bash.
-Worked with process creation and execution, pipes, redirections, signals,
-environment variables and file descriptors.
 
-The project required continuous peer evaluation, edge-case testing and
-debugging in a Linux environment, strengthening my attention to detail,
-problem-solving and collaborative development skills.
+Worked with process creation and execution, pipes, redirections, signals, environment variables and file descriptors.
+
+The project required continuous peer evaluation, edge-case testing and debugging in a Linux environment, strengthening my attention to detail, problem-solving and collaborative development skills.
 
 ### Inception — Containerised Web Infrastructure
 
 **Docker, Docker Compose, Nginx, TLS, MariaDB, Linux, Makefile**
 
-Built a containerised web infrastructure with isolated services for Nginx,
-WordPress/PHP-FPM and MariaDB.
+Built a containerised web infrastructure with isolated services for Nginx, WordPress/PHP-FPM and MariaDB.
 
-Configured TLS, private networking, persistent volumes, environment-based
-configuration, service startup scripts and Makefile automation.
+Configured TLS, private networking, persistent volumes, environment-based configuration, service startup scripts and Makefile automation.
 
 ---
 
-## Open Source Learning
+## Open Source
 
-I am currently building practical experience with open-source contribution workflows, focusing on backend development, Linux tooling, cloud infrastructure, containers, testing and technical documentation.
-
-My goal is to start with small, well-scoped contributions such as documentation improvements, test coverage, examples, issue reproduction and simple bug fixes before moving into larger code changes.
+I am currently building practical experience with open-source contribution workflows, with a focus on backend development, Node.js, Fastify, testing, documentation and collaborative software engineering.
 
 ### Current Focus
 
-#### Ubuntu / Linux / Cloud
+#### Fastify
 
-- **cloud-init** — learning how cloud instances are initialized, configured and automated in real-world Linux environments.
+I am currently studying and contributing to the Fastify ecosystem to improve my understanding of backend framework architecture, API design, request lifecycle, application hooks, plugin-based systems, automated testing and open-source review workflows.
 
-#### Backend / Node.js
+My first Fastify pull request is currently open:
 
-- **Fastify ecosystem** — studying backend architecture, plugins, testing practices, API design and Node.js contribution workflows.
-
-#### Documentation Practice
-
-- **Docker Docs** — practicing technical documentation contributions related to containers, developer tooling and infrastructure workflows.
-
-### Future Interests
-
-These projects are also part of my long-term open-source learning path, but they are not my immediate contribution focus:
-
-- Snapcraft
-- Charmcraft
-- Multipass
-- Node.js core
+* [docs: clarify application hooks instance context](https://github.com/fastify/fastify/pull/6841)
 
 ### Contribution Goals
 
-- Understand real-world open-source workflows
-- Read and follow contribution guidelines
-- Reproduce issues locally before proposing changes
-- Start with documentation, tests, examples and small bug fixes
-- Open clear and respectful pull requests
-- Track accepted contributions and lessons learned
+* Understand real-world open-source workflows
+* Read and follow contribution guidelines
+* Run projects locally before proposing changes
+* Reproduce issues when applicable
+* Start with documentation, tests, examples and small bug fixes
+* Open clear and focused pull requests
+* Respond professionally to maintainer feedback
+* Track contributions and lessons learned publicly
 
-My preparation, project research and contribution plan are documented in:
+My preparation, study notes and contribution progress are documented in:
 
 [Open Source Journey](https://github.com/MauricioMoraisZage/open-source-journey)
+
+### Long-Term Open Source Interests
+
+These projects are part of my long-term learning path, but they are not my immediate contribution focus:
+
+* Node.js core
+* Docker Docs
+* cloud-init
+* Snapcraft
+* Charmcraft
+* Multipass
 
 ---
 

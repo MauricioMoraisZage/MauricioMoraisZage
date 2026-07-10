@@ -1,15 +1,17 @@
 <h1 align="center">Mauricio Morais Zage</h1>
 
 <p align="center">
-  <strong>Junior Software Engineer | Backend Development, Linux & Containerised Systems</strong>
+  <strong>Junior Software Engineer | Backend Development, Node.js, TypeScript & Containerised Systems</strong>
 </p>
 
 <p align="center">
-  I build structured and maintainable software using Node.js, TypeScript,
+  I build structured and maintainable backend software using Node.js, TypeScript,
   PostgreSQL and Docker, supported by practical foundations in C, C++, Linux,
   algorithms, memory management, debugging and systems programming developed
-  through the completed 42 Luanda Common Core.
+  through the completed 42 Luanda Common Core. I am currently building public
+  open-source contribution experience in the Fastify ecosystem.
 </p>
+
 
 <p align="center">
   <a href="mailto:mauriciomoraiszage@gmail.com">
@@ -24,12 +26,12 @@
 
 ## About Me
 
-- Backend-focused software engineer working with APIs, relational databases and containerised applications
-- Completed the **42 Luanda Common Core**, with practical foundations in C, C++, Linux, algorithms, memory management, networking and debugging
-- Completed the fifth academic year of **Computer Engineering**; final thesis in progress, with defence expected in 2027
-- Experienced with command-line Git workflows, Docker-based environments, REST APIs and PostgreSQL-backed systems
-- Currently studying contribution workflows in established Linux, cloud and backend open-source projects
-- Open to remote and international junior software engineering and backend opportunities
+* Backend-focused software engineer working with APIs, relational databases and containerised applications
+* Building public open-source contribution experience in the Fastify ecosystem, with pull requests opened in Fastify core and fastify-plugin
+* Completed the **42 Luanda Common Core**, with practical foundations in C, C++, Linux, algorithms, memory management, networking and debugging
+* Completed the fifth academic year of **Computer Engineering**; final thesis in progress, with defence expected in 2027
+* Experienced with command-line Git workflows, Docker-based environments, REST APIs and PostgreSQL-backed systems
+* Open to remote and international junior software engineering and backend opportunities
 
 ---
 
@@ -55,6 +57,10 @@
   <img align="center" alt="MySQL" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Prisma" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg">
 </div>
+
+<p>
+  Currently studying and contributing to the <strong>Fastify ecosystem</strong>, with focus on backend framework architecture, plugins, request lifecycle, application hooks, TypeScript documentation and open-source review workflows.
+</p>
 
 ### Systems, Infrastructure & Workflow
 
@@ -118,17 +124,16 @@ Configured TLS, private networking, persistent volumes, environment-based config
 
 ## Open Source
 
-I am currently building practical experience with open-source contribution workflows, with a focus on backend development, Node.js, Fastify, testing, documentation and collaborative software engineering.
+I am currently building practical open-source contribution experience with a focus on backend development, Node.js, Fastify, testing, documentation and collaborative software engineering.
 
-### Current Focus
+### Current Focus — Fastify Ecosystem
 
-#### Fastify
+I am studying and contributing to the Fastify ecosystem to improve my understanding of backend framework architecture, API design, request lifecycle, application hooks, plugin-based systems, TypeScript patterns, automated testing and open-source review workflows.
 
-I am currently studying and contributing to the Fastify ecosystem to improve my understanding of backend framework architecture, API design, request lifecycle, application hooks, plugin-based systems, automated testing and open-source review workflows.
+Current pull requests:
 
-My first Fastify pull request is currently open:
-
-* [docs: clarify application hooks instance context](https://github.com/fastify/fastify/pull/6841)
+* [fastify/fastify — docs: clarify application hooks instance context](https://github.com/fastify/fastify/pull/6841)
+* [fastify/fastify-plugin — docs: clarify async and callback plugin styles](https://github.com/fastify/fastify-plugin/pull/297)
 
 ### Contribution Goals
 
@@ -161,8 +166,8 @@ These projects are part of my long-term learning path, but they are not my immed
 ## GitHub Stats
 
 <p align="center">
-  <img width="49.5%" alt="Mauricio Morais Zage GitHub Stats" width="400" src="https://mauricio-github-stats-api.vercel.app/api/stats?v=22">
-  <img width="49.5%" alt="Most Used Technologies" width="400" src="https://mauricio-github-stats-api.vercel.app/api/languages?v=2">
+  <img width="49.5%" alt="Mauricio Morais Zage GitHub Stats" src="https://mauricio-github-stats-api.vercel.app/api/stats?v=22">
+  <img width="49.5%" alt="Most Used Technologies" src="https://mauricio-github-stats-api.vercel.app/api/languages?v=2">
 </p>
 
 <p align="center">

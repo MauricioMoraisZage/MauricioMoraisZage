@@ -27,7 +27,7 @@
 * Building public open-source contribution experience in the Fastify ecosystem, with pull requests opened in Fastify core and fastify-plugin
 * Completed the **42 Luanda Common Core**, with practical foundations in C, C++, Linux, algorithms, memory management, networking and debugging
 * Completed the fifth academic year of **Computer Engineering**; final thesis in progress, with defence expected in 2027
-* Open to remote and international junior software engineering, backend, database support, data operations and automation opportunities
+* Open to remote and international software engineering, backend, database support, data operations and automation opportunities
 
 ---
 

@@ -1,7 +1,7 @@
 <h1 align="center">Mauricio Morais Zage</h1>
 
 <p align="center">
-  <strong>Junior Software Engineer | Backend Development, Node.js, TypeScript & Containerised Systems</strong>
+  <strong>Software Engineer | Backend Development, Node.js, TypeScript & Containerised Systems</strong>
 </p>
 
 <p align="center">

@@ -1,12 +1,13 @@
 <h1 align="center">Mauricio Morais Zage</h1>
 
 <p align="center">
-  I build structured and maintainable backend software using Node.js, TypeScript,
-  PostgreSQL and Docker, supported by practical foundations in C, C++, Linux,
-  algorithms, memory management, debugging and systems programming developed
-  through the completed 42 Luanda Common Core. I also work with structured data,
-  Excel, Python and relational databases, with interest in data accuracy,
-  automation and reliable record management.
+  I build structured, maintainable and reliable backend software using Node.js, TypeScript,
+  Express, PostgreSQL, Prisma and Docker. I completed the Common Core at **42 Luanda, a campus of the Global 42 Network**, 
+  an international peer-to-peer and project-based software engineering ecosystem. Through this programme, 
+  I developed practical foundations in C, C++, algorithms, Unix/Linux, networking, memory management, debugging, 
+  collaborative development and software delivery. Alongside backend development, I work with relational databases,
+  structured data, SQL, Python and Excel, with a particular interest in data accuracy,
+  automation and reliable information management.
 </p>
 
 <p align="center">
@@ -21,13 +22,15 @@
 ---
 
 ## About Me
-* Backend-focused software engineer working with APIs, relational databases, data accuracy and containerised applications
-* Practical experience with Node.js, TypeScript, PostgreSQL, Prisma, Docker, Linux and REST API development
-* Comfortable working with structured data, Excel, Python, SQL, documentation and organised digital records
-* Building public open-source contribution experience in the Fastify ecosystem, with pull requests opened in Fastify core and fastify-plugin
-* Completed the **42 Luanda Common Core**, with practical foundations in C, C++, Linux, algorithms, memory management, networking and debugging
-* Completed the fifth academic year of **Computer Engineering**; final thesis in progress, with defence expected in 2027
-* Open to remote and international software engineering, backend, database support, data operations and automation opportunities
+- Backend Developer focused on REST APIs, relational databases and containerised applications.
+- Hands-on experience with Node.js, TypeScript, Express, PostgreSQL, Prisma, Docker, Linux and Git.
+- Completed the Common Core at **42 Luanda, part of the Global 42 Network**, through an international project-based and peer-to-peer software engineering programme.
+- Developed strong practical foundations in C, C++, algorithms, Unix/Linux, networking, memory management and debugging.
+- Experienced in relational database modelling, migrations, authentication, access control, validation, error handling and technical documentation.
+- Building public open-source contribution experience in the Fastify ecosystem, with pull requests submitted to Fastify core and fastify-plugin.
+- Comfortable working with structured data, SQL, Python, Excel and organised digital records.
+- Completed the fifth academic year of Computer Engineering; final thesis in progress, with defence expected in 2027.
+- Open to remote and international Backend Developer and Software Engineering opportunities.
 
 ---
 

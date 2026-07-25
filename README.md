@@ -18,7 +18,7 @@
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://zage-core.vercel.app/">
-    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-ZAGE//CORE-0f172a?style=for-the-badge&logo=vercel&logoColor=white">
+    <img src="https://img.shields.io/badge/Portfolio-ZAGE//CORE-0f172a?style=for-the-badge&logo=vercel&logoColor=white">
   </a>
 </p>
 
@@ -48,6 +48,7 @@
 </div>
 
 <br>
+
 **Node.js · TypeScript · JavaScript · Express · REST APIs · JWT · RBAC · Validation · Error Handling**
 
 ### Databases & Data Systems

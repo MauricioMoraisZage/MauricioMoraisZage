@@ -17,6 +17,9 @@
   <a href="https://www.linkedin.com/in/mauricio-morais-zage-a09b31224/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
+  <a href="https://zage-core.vercel.app/">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-ZAGE//CORE-0f172a?style=for-the-badge&logo=vercel&logoColor=white">
+  </a>
 </p>
 
 ---
@@ -53,6 +56,7 @@
   <img align="center" alt="MySQL" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="SQLite" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg">
   <img align="center" alt="Prisma" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg">
+    <img align="center" alt="Supabase" height="35" src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white">
 </div>
 
 <br>

@@ -27,6 +27,7 @@
 - Practical experience with relational database modelling, migrations, authentication, access control, validation, error handling and technical documentation.
 - Since 2022, I have provided freelance software development and technical support for students, individual clients and small projects.
 - Currently focused on professional backend development, database support, data systems and backend-oriented automation.
+- Building practical open-source contribution experience in the Fastify ecosystem through documentation-focused pull requests, contribution workflow study and technical notes.
 - Completed the Common Core at **42 Luanda, part of the Global 42 Network**, through an international project-based and peer-to-peer software engineering programme.
 - Through 42, I developed practical foundations in C, C++, algorithms, Unix/Linux, networking, memory management, debugging and collaborative software development.
 - Completed the fifth academic year of Computer Engineering; final thesis in progress, with defence expected in 2027.
@@ -54,12 +55,12 @@
   <img align="center" alt="MySQL" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="SQLite" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg">
   <img align="center" alt="Prisma" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg">
-    <img align="center" alt="Supabase" height="35" src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white">
+  <img align="center" alt="Supabase" height="35" src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white">
 </div>
 
 <br>
 
-**PostgreSQL · MySQL · SQLite · Prisma ORM · SQL · Relational Modelling · Migrations · Seeds · Data Validation**
+**PostgreSQL · MySQL · SQLite · Prisma ORM · Supabase · SQL · Relational Modelling · Migrations · Seeds · Data Validation**
 
 ### Infrastructure & Workflow
 <div>
@@ -124,19 +125,19 @@ Implemented routes, controllers, services, data access layer, validation, centra
 
 ## Open Source
 
-I am currently building practical open-source contribution experience with a focus on backend development, Node.js, Fastify, testing, documentation and collaborative software engineering.
+I am actively building practical open-source contribution experience with a focus on backend development, Node.js, Fastify, TypeScript, documentation, testing practices and collaborative software engineering workflows.
 
 ### Current Focus — Fastify Ecosystem
-
 I am studying and contributing to the Fastify ecosystem to improve my understanding of backend framework architecture, API design, request lifecycle, application hooks, plugin-based systems, TypeScript patterns, automated testing and open-source review workflows.
 
-Current pull requests:
+My current open-source work includes reading contribution guidelines, running projects locally, studying existing issues and documentation, submitting focused pull requests and documenting the lessons learned throughout the process.
 
+### Current Pull Requests
 - [fastify/fastify — docs: clarify application hooks instance context](https://github.com/fastify/fastify/pull/6841)
 - [fastify/fastify-plugin — docs: clarify async and callback plugin styles](https://github.com/fastify/fastify-plugin/pull/297)
 
-My preparation, study notes and contribution progress are documented in:
-
+### Open Source Journey
+I document my preparation, study notes, contribution workflow, submitted pull requests and lessons learned in:
 [Open Source Journey](https://github.com/MauricioMoraisZage/open-source-journey)
 
 ---

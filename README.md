@@ -1,13 +1,13 @@
 <h1 align="center">Mauricio Morais Zage</h1>
 
 <p align="center">
-  I build structured, maintainable and reliable backend software using Node.js, TypeScript,
-  Express, PostgreSQL, Prisma and Docker. I completed the Common Core at **42 Luanda, a campus of the Global 42 Network**, 
-  an international peer-to-peer and project-based software engineering ecosystem. Through this programme, 
-  I developed practical foundations in C, C++, algorithms, Unix/Linux, networking, memory management, debugging, 
-  collaborative development and software delivery. Alongside backend development, I work with relational databases,
-  structured data, SQL, Python and Excel, with a particular interest in data accuracy,
-  automation and reliable information management.
+  <strong>Software Engineer focused on Backend Development, Data Systems and reliable application infrastructure.</strong>
+</p>
+<p align="center">
+  I build structured, maintainable and practical backend software using
+  <strong>Node.js, TypeScript, Express, PostgreSQL, Prisma and Docker</strong>.
+  I completed the Common Core at <strong>42 Luanda, a campus of the Global 42 Network</strong>,
+  an international peer-to-peer and project-based software engineering ecosystem.
 </p>
 
 <p align="center">
@@ -17,67 +17,76 @@
   <a href="https://www.linkedin.com/in/mauricio-morais-zage-a09b31224/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
+  <a href="https://zage-core.vercel.app/">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-ZAGE//CORE-0f172a?style=for-the-badge&logo=vercel&logoColor=white">
+  </a>
 </p>
 
 ---
 
 ## About Me
-- Backend Developer focused on REST APIs, relational databases and containerised applications.
-- Hands-on experience with Node.js, TypeScript, Express, PostgreSQL, Prisma, Docker, Linux and Git.
+- Software Engineer focused on backend development, REST APIs, relational databases and containerised applications.
+- Main stack: Node.js, TypeScript, Express, PostgreSQL, Prisma, Docker, Git and Linux-based development tools.
+- Practical experience with relational database modelling, migrations, authentication, access control, validation, error handling and technical documentation.
+- Since 2022, I have provided freelance software development and technical support for students, individual clients and small projects.
+- Currently focused on professional backend development, database support, data systems and backend-oriented automation.
 - Completed the Common Core at **42 Luanda, part of the Global 42 Network**, through an international project-based and peer-to-peer software engineering programme.
-- Developed strong practical foundations in C, C++, algorithms, Unix/Linux, networking, memory management and debugging.
-- Experienced in relational database modelling, migrations, authentication, access control, validation, error handling and technical documentation.
-- Building public open-source contribution experience in the Fastify ecosystem, with pull requests submitted to Fastify core and fastify-plugin.
-- Comfortable working with structured data, SQL, Python, Excel and organised digital records.
+- Through 42, I developed practical foundations in C, C++, algorithms, Unix/Linux, networking, memory management, debugging and collaborative software development.
 - Completed the fifth academic year of Computer Engineering; final thesis in progress, with defence expected in 2027.
-- Open to remote and international Backend Developer and Software Engineering opportunities.
+- Open to remote and international Software Engineering, Backend Development and Database Support opportunities.
 
 ---
 
-## Technical Skills
+## Main Technical Stack
 
-### Core Engineering
-<div>
-  <img align="center" alt="C" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" alt="C++" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="Python" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="JavaScript" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="TypeScript" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  <img align="center" alt="Java" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-</div>
-
-### Backend & Databases
+### Backend Development
 <div>
   <img align="center" alt="Node.js" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="TypeScript" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+  <img align="center" alt="JavaScript" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Express" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
+</div>
+
+<br>
+**Node.js · TypeScript · JavaScript · Express · REST APIs · JWT · RBAC · Validation · Error Handling**
+
+### Databases & Data Systems
+<div>
   <img align="center" alt="PostgreSQL" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="MySQL" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="SQLite" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg">
   <img align="center" alt="Prisma" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg">
 </div>
 
-### Data, Automation & Administrative Tools
-<div>
-  <img align="center" alt="Python" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="PostgreSQL" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="SQLite" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg">
-</div>
+<br>
 
-<p>
-  Experience working with structured records, relational databases, spreadsheets,
-  documentation, basic Python automation, data validation, duplicate checking,
-  simple reporting and organised digital information.
-</p>
+**PostgreSQL · MySQL · SQLite · Prisma ORM · SQL · Relational Modelling · Migrations · Seeds · Data Validation**
 
-### Systems, Infrastructure & Workflow
+### Infrastructure & Workflow
 <div>
-  <img align="center" alt="Linux" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   <img align="center" alt="Docker" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+  <img align="center" alt="Linux" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   <img align="center" alt="Git" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="GitHub" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
   <img align="center" alt="VS Code" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
   <img align="center" alt="Postman" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg">
-  <img align="center" alt="Makefile" height="35" src="https://img.shields.io/badge/Makefile-369DAD?style=for-the-badge&logo=gnu&logoColor=white">
 </div>
+
+<br>
+**Docker · Docker Compose · Linux/Ubuntu · Git · GitHub · VS Code · Postman · Swagger · Makefile · Technical Documentation**
+
+---
+
+## Freelance Software Engineering Experience
+
+### Freelance Software Engineer & Technical Support  
+**Luanda, Angola · Remote | 2022 – Present**
+
+Since 2022, I have provided freelance software development and technical support for students, individual clients and small projects.
+
+My work has included debugging, project structure, database modelling, feature implementation, code organisation, technical explanations, documentation and deployment preparation.
+
+I am currently focused on international freelance work in backend development, database support, data systems, technical support and backend-oriented automation.
 
 ---
 
@@ -85,38 +94,32 @@
 
 The projects below are selected examples of private, academic and collaborative technical work. Additional implementation details can be discussed when appropriate.
 
-### SGE-USR — Road Safety Unit Personnel Management System
-**Backend Developer | Node.js, TypeScript, Express, Prisma, PostgreSQL, Docker, JWT**
+### SGE-USR — Road Safety Unit Personnel Management System  
+**Software Engineer / Backend Developer | Node.js, TypeScript, Express, Prisma, PostgreSQL, Docker, JWT**
 
 Designed and developed backend modules for a private institutional personnel management system, including relational database modelling, REST APIs, JWT authentication, role-based access control, database migrations and features for personnel management, organisational units, attendance, leave management and auditing.
 
-### 42Devs — Social Platform for the 42 Community
-**Backend Developer | Node.js, TypeScript, Express, Prisma, PostgreSQL, Docker, Nginx, SSE, WebSocket**
+---
 
-Contributed to backend and infrastructure work for a collaborative social platform built for the 42 community. Worked on PostgreSQL integration and administrative backend features involving users, posts, reports, support tickets, permissions and account bans. Designed and implemented the local containerised development environment with five services: backend, PostgreSQL database, user frontend, admin frontend and Nginx reverse proxy. Configured HTTPS, health checks, environment variables and Makefile automation.
+### 42Devs — Social Platform for the 42 Community  
+**Software Engineer / Backend Developer | Node.js, TypeScript, Express, Prisma, PostgreSQL, Docker, Nginx, SSE, WebSocket**
+
+Contributed to backend and infrastructure work for a collaborative social platform built for the 42 community.
+
+Worked on PostgreSQL integration and administrative backend features involving users, posts, reports, support tickets, permissions and account bans.
+
+Designed and implemented the local containerised development environment with five services: backend, PostgreSQL database, user frontend, admin frontend and Nginx reverse proxy.
+
 The team project received a score of **125/100 at 42 Luanda**.
 
 ---
 
-## Linux & Systems Engineering
+### Career Tracker API — Job Application Management API  
+**Node.js, TypeScript, Express, Prisma, PostgreSQL, Docker, Swagger**
 
-### Minishell — Unix-like Command Interpreter
-**C, Linux, Unix Processes, Pipes, Signals, File Descriptors, Makefile**
+Developed a backend API to organise job applications, companies, opportunities, application statuses and career tracking.
 
-Collaboratively built a Unix-like command interpreter in C, inspired by Bash.
-Worked with process creation and execution, pipes, redirections, signals, environment variables and file descriptors.
-The project required continuous peer evaluation, edge-case testing and debugging in a Linux environment, strengthening my attention to detail, problem-solving and collaborative development skills.
-
----
-
-## Data, Database & Automation Experience
-
-### Structured Data & Records Practice
-**Excel, Python, SQL, SQLite, PostgreSQL**
-
-Worked on personal, academic and software projects involving structured information, relational data models, digital records and documentation.
-Practised organising records, checking inconsistencies, identifying duplicate entries and preparing simple reports using spreadsheets, databases and basic Python scripts.
-Used SQLite and PostgreSQL in software projects, which strengthened my understanding of data accuracy, schema design, validation and reliable record management.
+Implemented routes, controllers, services, data access layer, validation, centralised error handling and endpoint documentation.
 
 ---
 
@@ -125,24 +128,25 @@ Used SQLite and PostgreSQL in software projects, which strengthened my understan
 I am currently building practical open-source contribution experience with a focus on backend development, Node.js, Fastify, testing, documentation and collaborative software engineering.
 
 ### Current Focus — Fastify Ecosystem
+
 I am studying and contributing to the Fastify ecosystem to improve my understanding of backend framework architecture, API design, request lifecycle, application hooks, plugin-based systems, TypeScript patterns, automated testing and open-source review workflows.
 
 Current pull requests:
-* [fastify/fastify — docs: clarify application hooks instance context](https://github.com/fastify/fastify/pull/6841)
-* [fastify/fastify-plugin — docs: clarify async and callback plugin styles](https://github.com/fastify/fastify-plugin/pull/297)
 
-### Contribution Goals
-* Understand real-world open-source workflows
-* Read and follow contribution guidelines
-* Run projects locally before proposing changes
-* Reproduce issues when applicable
-* Start with documentation, tests, examples and small bug fixes
-* Open clear and focused pull requests
-* Respond professionally to maintainer feedback
-* Track contributions and lessons learned publicly
+- [fastify/fastify — docs: clarify application hooks instance context](https://github.com/fastify/fastify/pull/6841)
+- [fastify/fastify-plugin — docs: clarify async and callback plugin styles](https://github.com/fastify/fastify-plugin/pull/297)
 
 My preparation, study notes and contribution progress are documented in:
+
 [Open Source Journey](https://github.com/MauricioMoraisZage/open-source-journey)
+
+---
+
+## Portfolio
+
+Explore my interactive software engineering portfolio:
+
+[ZAGE//CORE — Interactive Portfolio](https://zage-core.vercel.app/)
 
 ---
 

@@ -8,6 +8,8 @@
   <strong>Node.js, TypeScript, Express, PostgreSQL, Prisma and Docker</strong>.
   I completed the Common Core at <strong>42 Luanda, a campus of the Global 42 Network</strong>,
   an international peer-to-peer and project-based software engineering ecosystem.
+  I currently work remotely as a <strong>Backend Developer at Jonsero</strong>,
+  contributing to the development of I’m Here, a platform that connects clients with professionals and companies according to their service needs.
 </p>
 
 <p align="center">

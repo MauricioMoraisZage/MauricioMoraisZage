@@ -27,7 +27,7 @@
 - Software Engineer focused on backend development, REST APIs, relational databases and containerised applications.
 - Main stack: Node.js, TypeScript, Express, PostgreSQL, Prisma, Docker, Git and Linux-based development tools.
 - Practical experience with relational database modelling, migrations, authentication, access control, validation, error handling and technical documentation.
-- Since 2022, I have provided freelance software development and technical support for students, individual clients and small projects.
+- Since 2021, I have provided freelance software development and technical support for students, individual clients and small projects.
 - Currently focused on professional backend development, database support, data systems and backend-oriented automation.
 - Building practical open-source contribution experience in the Fastify ecosystem through documentation-focused pull requests, contribution workflow study and technical notes.
 - Completed the Common Core at **42 Luanda, part of the Global 42 Network**, through an international project-based and peer-to-peer software engineering programme.
@@ -82,9 +82,9 @@
 ## Freelance Software Engineering Experience
 
 ### Freelance Software Engineer & Technical Support  
-**Luanda, Angola · Remote | 2022 – Present**
+**Luanda, Angola · Remote | 2021 – Present**
 
-Since 2022, I have provided freelance software development and technical support for students, individual clients and small projects.
+Since 2021, I have provided freelance software development and technical support for students, individual clients and small projects.
 
 My work has included debugging, project structure, database modelling, feature implementation, code organisation, technical explanations, documentation and deployment preparation.
 

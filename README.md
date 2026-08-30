@@ -50,6 +50,7 @@
   <img align="center" alt="Express" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
 </div>
 <br>
+
 **Node.js · TypeScript · JavaScript · Express · REST APIs · JWT · RBAC · Validation · Error Handling**
 
 ### Databases & Data Systems
@@ -61,6 +62,7 @@
   <img align="center" alt="Supabase" height="35" src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white">
 </div>
 <br>
+
 **PostgreSQL · MySQL · SQLite · Prisma ORM · Supabase · SQL · Relational Modelling · Migrations · Seeds · Data Validation**
 
 ### Infrastructure & Workflow
@@ -73,6 +75,7 @@
   <img align="center" alt="Postman" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg">
 </div>
 <br>
+
 **Docker · Docker Compose · Linux/Ubuntu · Git · GitHub · VS Code · Postman · Swagger · Makefile · Technical Documentation**
 
 ---
@@ -81,6 +84,7 @@
 
 ### Backend Developer — Jonsero  
 **Luanda, Angola · Remote | August 2026 – Present**
+
 Contribute to the backend development of **I’m Here**, a platform that connects clients with professionals and companies according to their service needs.
 My work includes API development, database integration, backend business logic, data validation, debugging, reliability improvements and integration with frontend functionality.
 I also contribute to the evolution of production-oriented backend features and the technical structure required to support the platform as it grows.
@@ -92,6 +96,7 @@ I also contribute to the evolution of production-oriented backend features and t
 
 ### Freelance Software Engineer & Technical Support  
 **Luanda, Angola · Remote / Hybrid | 2021 – Present**
+
 Since 2021, I have provided freelance software development and technical support for students, individual clients and small projects.
 My work has included debugging, project structure, database modelling, feature implementation, code organisation, technical explanations, documentation and deployment preparation.
 Over time, my freelance work evolved from projects involving C, C++ and Java towards backend development, databases, REST APIs, Node.js and TypeScript.
@@ -104,6 +109,7 @@ The projects below are selected examples of private, academic, collaborative and
 
 ### SGE-USR — Road Safety Unit Personnel Management System  
 **Software Engineer / Backend Developer | Node.js, TypeScript, Express, Prisma, PostgreSQL, Docker, JWT**
+
 Designed and developed backend modules for a private institutional personnel management system, including relational database modelling, REST APIs, JWT authentication, role-based access control, database migrations and features for personnel management, organisational units, attendance, leave management and auditing.
 **Project status:** Private institutional software.
 
@@ -111,6 +117,7 @@ Designed and developed backend modules for a private institutional personnel man
 
 ### 42Devs — Social Platform for the 42 Community  
 **Software Engineer / Backend Developer | Node.js, TypeScript, Express, Prisma, PostgreSQL, Docker, Nginx, SSE, WebSocket**
+
 Contributed to backend and infrastructure work for a collaborative social platform built for the 42 community.
 Worked on PostgreSQL integration and administrative backend features involving users, posts, reports, support tickets, permissions and account bans.
 Designed and implemented the local containerised development environment with five services: backend, PostgreSQL database, user frontend, admin frontend and Nginx reverse proxy.
@@ -122,6 +129,7 @@ The team project received a score of **125/100 at 42 Luanda**.
 
 ### Career Tracker API — Job Application Management API  
 **Backend Developer | Node.js, TypeScript, Express, Prisma, PostgreSQL, Docker, Swagger**
+
 Designed and developed a REST API for managing professional courses, learning modules, job opportunities and job applications.
 Implemented routes, controllers, services, data access layers, JWT authentication, per-user resource ownership, filtering, pagination, transactions, validation and centralised error handling.
 Added automated integration testing, Docker-based local infrastructure and interactive OpenAPI documentation.
@@ -133,6 +141,7 @@ The API is deployed publicly and can be explored and tested directly through Swa
 
 ### Vision Guard PC — Windows Desktop Wellness Application  
 **Software Developer | Windows Desktop Application**
+
 Designed and developed a desktop application focused on healthier computer usage and screen-time habits.
 Implemented configurable visual and physical break reminders, usage monitoring, statistics, application settings and automatic startup support.
 Prepared and published a portable Windows x64 release that can be executed without requiring a development environment.

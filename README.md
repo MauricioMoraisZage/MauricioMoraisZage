@@ -122,7 +122,9 @@ Contributed to backend and infrastructure work for a collaborative social platfo
 Worked on PostgreSQL integration and administrative backend features involving users, posts, reports, support tickets, permissions and account bans.
 Designed and implemented the local containerised development environment with five services: backend, PostgreSQL database, user frontend, admin frontend and Nginx reverse proxy.
 The team project received a score of **125/100 at 42 Luanda**.
+
 **Live Demo:**  [https://42-devs-ft-transcender.vercel.app/](https://42-devs-ft-transcender.vercel.app/)
+
 **Admin Dashboard Demo:**  [https://42-devs-ft-transcender.vercel.app/admin/login](https://42-devs-ft-transcender.vercel.app/admin/login)
 
 ---
@@ -134,7 +136,9 @@ Designed and developed a REST API for managing professional courses, learning mo
 Implemented routes, controllers, services, data access layers, JWT authentication, per-user resource ownership, filtering, pagination, transactions, validation and centralised error handling.
 Added automated integration testing, Docker-based local infrastructure and interactive OpenAPI documentation.
 The API is deployed publicly and can be explored and tested directly through Swagger.
+
 **Live Swagger Documentation:**  [https://career-tracker-api.vercel.app/api-docs](https://career-tracker-api.vercel.app/api-docs)
+
 **Repository:**  [github.com/MauricioMoraisZage/career-tracker-api](https://github.com/MauricioMoraisZage/career-tracker-api)
 
 ---
@@ -146,6 +150,7 @@ Designed and developed a desktop application focused on healthier computer usage
 Implemented configurable visual and physical break reminders, usage monitoring, statistics, application settings and automatic startup support.
 Prepared and published a portable Windows x64 release that can be executed without requiring a development environment.
 The public release also includes a SHA-256 checksum for file verification.
+
 **Windows Release v1.0.2:**  [https://github.com/MauricioMoraisZage/vision-guard-pc/releases/tag/v1.0.2](https://github.com/MauricioMoraisZage/vision-guard-pc/releases/tag/v1.0.2)
 
 ---

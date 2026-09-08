@@ -83,7 +83,7 @@
 ## Professional Experience
 
 ### Backend Developer — Jonsero  
-**Luanda, Angola · Remote | August 2026 – Present**
+**Luanda, Angola · Remote | May 2026 – Present**
 
 Contribute to the backend development of **I’m Here**, a platform that connects clients with professionals and companies according to their service needs.
 My work includes API development, database integration, backend business logic, data validation, debugging, reliability improvements and integration with frontend functionality.
